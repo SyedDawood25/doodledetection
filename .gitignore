@@ -1,0 +1,6 @@
+/dataset
+/frontend/__pycache__/
+/frontend/main.spec
+/frontend/build/
+/frontend/dist/
+/frontend/trained_nn/trained_nn_final.data
